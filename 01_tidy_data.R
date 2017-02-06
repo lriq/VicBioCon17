@@ -2,3 +2,9 @@
 
 #load tidyverse library
 library("tidyverse")
+
+#Convert the following columns to factors using the mutate() function:
+#Moon
+#NatEx
+#Bioregion
+as.factor()
